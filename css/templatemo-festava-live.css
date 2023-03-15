@@ -469,6 +469,7 @@ strong {
     overflow: hidden;
     padding-top: 100px;
     height: 100vh;
+    background-image: url('../images/bg.jpg');
 }
 
 .hero-section small {
@@ -660,6 +661,13 @@ strong {
 .schedule-table td {
     border-bottom-color: #363a3e;
     padding: 30px;
+    width: 400px;
+}
+
+.schedule-table td {
+    text-align: center;
+    vertical-align: middle;
+    height: 250px;
 }
 
 .schedule-table tr:last-child th,
@@ -681,15 +689,27 @@ strong {
 }
 
 .schedule-table .pop-background-image {
-    background-image: url('../images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+    background-image: url('../images/hug-face.jpeg');
+}
+
+.schedule-table .deb-background-image {
+    background-image: url('../images/debate.png');
+}
+
+.schedule-table .talk-1-background-image {
+    background-image: url('../images/talk-1.jpg');
+}
+
+.schedule-table .close-background-image {
+    background-image: url('../images/informal.jpeg');
 }
 
 .schedule-table .rock-background-image {
-    background-image: url('../images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg');
+    background-image: url('../images/gsoc.webp');
 }
 
 .schedule-table .country-background-image {
-    background-image: url('../images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg');
+    background-image: url('../images/thunt.jpeg');
 }
 
 .table-background-image-wrap {
