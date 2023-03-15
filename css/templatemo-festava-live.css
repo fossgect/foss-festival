@@ -228,6 +228,9 @@ strong {
     height: 100%;
     opacity: 0.35;
 }
+.container a img{
+    height: 60px;
+}
 
 .section-overlay + .container {
     position: relative;
@@ -1019,5 +1022,8 @@ strong {
 
     h5 {
         font-size: 20px;
+    }
+    .container a img{
+        height: 40px;
     }
 }
