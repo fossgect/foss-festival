@@ -228,7 +228,7 @@ strong {
     height: 100%;
     opacity: 0.35;
 }
-.container a img{
+.container a img {
     height: 60px;
 }
 
@@ -578,6 +578,10 @@ strong {
 /*---------------------------------------
   ARTISTS              
 -----------------------------------------*/
+
+.event-header {
+    opacity: 0.9 !important;
+}
 .artists-thumb {
     position: relative;
     overflow: hidden;
@@ -610,7 +614,7 @@ strong {
     left: 0;
     opacity: 0;
 }
-.artists-hover p{
+.artists-hover p {
     color: white;
 }
 .artists-hover p strong {
@@ -1023,7 +1027,7 @@ strong {
     h5 {
         font-size: 20px;
     }
-    .container a img{
+    .container a img {
         height: 40px;
     }
 }
