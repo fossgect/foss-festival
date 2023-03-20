@@ -1041,4 +1041,14 @@ strong {
     .container a img {
         height: 40px;
     }
+    :root{
+        --p-font-size: 13px;
+    }
+    .artists-hover{
+        margin: 10px;
+        padding: 10px;
+    }
+    .artists-thumb:hover .head-div{
+        display: none;
+    }
 }
