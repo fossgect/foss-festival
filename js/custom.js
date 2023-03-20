@@ -2,6 +2,9 @@
   (function ($) {
   
   "use strict";
+  $(".form-btn").click(function () {
+    alert("Message sent");
+  });
 
     // MENU
     $('.navbar-collapse a').on('click',function(){
