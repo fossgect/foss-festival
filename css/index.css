@@ -218,7 +218,7 @@ strong {
     pointer-events: none;
     width: 100%;
     height: 100%;
-    opacity: 0.35;
+    opacity: 0.55;
 }
 .container a img {
     height: 60px;
@@ -725,6 +725,25 @@ strong {
     background-image: url('../images/thunt.jpeg');
 }
 
+.schedule-table .projectP-background-image {
+    background-image: url('../images/project.jpeg');
+}
+
+.schedule-table .projectS-background-image {
+    background-image: url('../images/project.jpg');
+}
+
+.schedule-table .lunch-background-image {
+    background-image: url('../images/lunch.jpg');
+}
+
+.schedule-table .reg-background-image {
+    background-image: url('../images/reg.jpg');
+}
+
+.schedule-table .close1-background-image {
+    background-image: url('../images/close.jpg');
+}
 .table-background-image-wrap {
     background-repeat: no-repeat;
     background-position: center;
